@@ -20,7 +20,7 @@ class ComputerTechnician:
         self.language_spoken = ["pt_BR", "en_US"]
         self.location = "MG, Brazil"
         self.code = ["Python", "C", "C++", "Java", "JS"]
-        self.ambitions = ["Software Engineering", "Full-Stack Job"]
+        self.ambitions = ["Engineering"]
 
     def say_hi(self):
         print("Thanks for dropping by!")
