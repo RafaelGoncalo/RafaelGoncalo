@@ -15,7 +15,7 @@
 class ComputerTechnician:
     def __init__(self):
         self.name = "Rafael Gonçalo"
-        self.age = 17
+        self.age = 18
         self.role = "Computer Technician"
         self.language_spoken = ["pt_BR", "en_US"]
         self.location = "MG, Brazil"
